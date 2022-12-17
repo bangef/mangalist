@@ -14,7 +14,7 @@ class FooterCuscom extends HTMLElement {
 
 	render() {
 		this.clx();
-		this.innerHTML = `<p class="font-semibold text-white-cstm">KitsuXBangef © 2022</p>`;
+		this.innerHTML = `<p class="font-semibold text-white-cstm">Mangalist © 2022</p>`;
 	}
 }
 

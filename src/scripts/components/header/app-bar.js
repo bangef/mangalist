@@ -8,8 +8,8 @@ class AppBar extends HTMLElement {
 			<nav
 				class="grid w-full h-20 md:h-24 lg:h-28 rounded-xl bg-black-young place-content-center"
 			>
-				<h1 class="text-4xl font-bold text-center text-white-cstm">
-					Logo Here
+				<h1 class="text-4xl font-bold text-center  text-blue-300">
+					Mangalist
 				</h1>
 			</nav>
 		</header>`;

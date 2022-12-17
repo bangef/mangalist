@@ -3,7 +3,6 @@ import Manga from "../data";
 const main = () => {
 	const searchElement = document.querySelector("search-bar");
 	const cardsElement = document.querySelector("cards-cuscom");
-	const paginationElement = document.querySelector("pagination-cuscom");
 
 	const afterLoad = async () => {
 		try {
